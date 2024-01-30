@@ -9,7 +9,7 @@ Soutien scolaire
 Un **cahier des charges** contenant :
 
 - Une liste des spécifications fonctionnelles, présentant ce que le produit va réaliser;
-- Les proposiƟons sur la veille Technologique sur les technologies web dans le contexte du 
+- Les propositions sur la veille Technologique sur les technologies web dans le contexte du 
   développement d’un site de souƟen scolaire 
 - Une liste des spécifications techniques, présentant les technologies utilisées et comment la technique répond aux besoins du client ;
 - Un diagramme de classes utilisant la nomenclature UML.
